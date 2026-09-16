@@ -4,4 +4,4 @@
 |-------------|------------------|-----------------------------------|
 | iker        | (miembro A)      |  Comando A                        |
 | jgfl        | (miembro B)      |  Comando B                        |
-| (miembro C) |                  |                                   |
+| abc         | (miembro C)      |  Comando C                        |
