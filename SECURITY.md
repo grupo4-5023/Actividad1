@@ -1,4 +1,4 @@
 # Política de seguridad del equipo
 
-Contacto de seguridad: iker,jgfl
+Contacto de seguridad: abc
 Última revisión: (pendiente)
