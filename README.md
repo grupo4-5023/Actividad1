@@ -3,5 +3,5 @@
 | Miembro     | Rol en el equipo | Comando Git que más te ha costado |
 |-------------|------------------|-----------------------------------|
 | iker        | (miembro A)      |  Comando A                        |
-| (miembro B) |                  |                                   |
+| jgfl        | (miembro B)      |  Comando B                        |
 | (miembro C) |                  |                                   |
