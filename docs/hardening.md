@@ -2,6 +2,7 @@
 
 Estado global: 0/3 completado
 
-- [x] (ítem A, pendiente)
-- [ ] (ítem B, pendiente)
-- [ ] (ítem C, pendiente)
+
+- [X] (ítem A, pendiente)
+- [X] (ítem B, pendiente)
+- [X] (ítem C, pendiente)
